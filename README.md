@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://catato-source.github.io/">
-    [](site.gif)
+   ![](site.gif)
   </a>
 </p>
 
