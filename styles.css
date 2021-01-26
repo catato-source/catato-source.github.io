@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,300&display=swap');
+
+:root {
+    --accent: #ED6363;
+    --accentHover: #be4343;
+    --dark: #232931;
+    --semidark: #393e46;
+    --light: #E5E5E5;
+    --transition: all 0.3s ease 0s;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    height: 100%;
+    overflow: auto;
+}
+
+body {
+    background: 
+        linear-gradient(
+            var(--dark),
+            var(--dark)
+        );
+    background-position: center;
+    background-size: cover;
+}
+
+p, a {
+    font-family: "Lato", sans-serif;
+    color: var(--light);
+    text-decoration: none;
+}
+
+a, .logo, .icon {
+    cursor: pointer;
+}
+
+main {
+    height: 100%;
+    display: grid;
+    grid-template-columns: minmax(60px, 1fr) repeat(6, minmax(50px, 240px)) minmax(60px, 1fr);
+}
+
+header {
+    grid-column: 2 / span 6;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    height: 120px;
+}
+
+.links {
+    margin-left: auto;
+}
+
+.links a, .links {
+    font-size: 1.5rem;
+    font-weight: 400;
+    transform: var(--transition);
+}
+
+.links a {
+    margin-left: 144px;
+}
+
+.links a:hover {
+    color: var(--accent);
+}
+
+.info {
+    grid-column: 5 / span 3;
+}
+
+.hero__font {
+    color: var(--light);
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-size: 3.35rem;
+}
+
+.info__sub {
+    font-family: "Lato", sans-serif;
+    font-weight: 300;
+    font-size: 1.275rem;
+    line-height: 1.75;
+}
+
+footer {
+    grid-column: 4 / span 2;
+    height: 120px;
+    align-self: end;
+    margin: 0px 100px 0px 100px;
+    padding: 10px 0 10px 0;
+}
+
+.footer {
+    display: flex;
+    align-items: center;
+    padding-bottom: 10px;
+}
+
+.icon {
+    margin-inline: auto;
+    padding: 
+}
+
+.footer__label {
+    margin: auto;
+    text-align: center;
+}
+
