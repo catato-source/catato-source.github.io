@@ -3,8 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://catato-source.github.io/">
-   ![](site.gif)
+   ![catato-source.github.io](https://github.com/catato-source/catato-source.github.io/blob/master/site.gif)
   </a>
 </p>
 
