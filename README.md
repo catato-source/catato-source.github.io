@@ -1,11 +1,6 @@
-<h1 align="center">
- My Portfolio
-</h1>
+# Portfolio
 
-<p align="center">
-   ![catato-source.github.io](https://github.com/catato-source/catato-source.github.io/blob/master/site.gif)
-  </a>
-</p>
+![catato-source.github.io](https://github.com/catato-source/catato-source.github.io/blob/master/site.gif)
 
 This repository for my online portfolio site [catato-source.github.io](https://catato-source.github.io/) built with HTML, CSS, and JavaScript.
 
