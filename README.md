@@ -13,7 +13,7 @@ This repository for my online portfolio site [catato-source.github.io](https://c
 This portfolio displays my skills, current projects, and other stuff, and is currently hosted by [GitHub Pages](https://pages.github.com).
 
 ## :grey_exclamation: Feedbacks?
-This repository is a work in progress. 
+This repository is still a work in progress. 
 
 If ever you stumble upon my portfolio and has something in your mind, don't hesitate to give a feedback!
 
