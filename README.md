@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://catato-source.github.io/">
-    <img src="gif upload" alt="Site Snapshot" width="800" />
+    [](site.gif)
   </a>
 </p>
 
