@@ -2,8 +2,8 @@
 <browserconfig>
     <msapplication>
         <tile>
-            <square150x150logo src="/mstile-150x150.png"/>
-            <TileColor>#da532c</TileColor>
+            <square150x150logo src="https://catato-source.github.io/images/favicon/mstile-150x150.png"/>
+            <TileColor>#9fe1cb</TileColor>
         </tile>
     </msapplication>
 </browserconfig>
